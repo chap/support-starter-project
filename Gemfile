@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'puma'
 gem 'rails_12factor'
 gem 'kaminari'
+gem 'sidekiq'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
